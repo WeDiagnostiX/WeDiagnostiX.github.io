@@ -107,7 +107,7 @@
 
             function login(secret) {
                 var hash = sha1(secret)
-                var url = hash + "_index.html"
+                var url = hash + "/index.html"
                 var alert = document.querySelectorAll('[data-id="alert"]')
 
                 var request = new XMLHttpRequest()
@@ -115,7 +115,7 @@
 
                 request.onload = function () {
                     if (request.status >= 200 && request.status < 400) {
-                        window.location = url
+                        window.location = 'wdx_index.html'
                     } else {
                         parent.location.hash = hash
                         alert[0].style.display = 'block'
