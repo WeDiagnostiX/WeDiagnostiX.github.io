@@ -1,58 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7d27ad9-c602-495b-a117-a050220b0546" name="Changes" comment="Added README.md">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/wdx-annotations.github.io.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/185.bundle.f29b67537c0e3fb07da6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/185.bundle.f29b67537c0e3fb07da6.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/192.bundle.2be20eb0b00cc0249a76.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/199.bundle.e07a8fd023af48aee4fd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/205.bundle.384d81ff6522f1854dfa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/208.bundle.82bdd8d57b09bfaff76e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/295.bundle.ea8d58862a3316532eb2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/351.bundle.00109636469c7c04ee0f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/381.bundle.747a27b7f66f738e94a9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.bundle.43f6b7e362cda1ad0e4d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/50.bundle.b73c4764973096e90dbc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/531.bundle.05d7920e17f431ffac0e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/531.bundle.05d7920e17f431ffac0e.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/55.bundle.82f2f1a4b2dd40ead19e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/569.bundle.a29e97a0750c5ea621ea.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/581.bundle.ea81553417a3a3c29b7e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/606.bundle.e1ec6d7e5b50257893ee.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/606.bundle.e1ec6d7e5b50257893ee.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/642.bundle.bc2ac13a5e5d5a377bc1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/664.bundle.fb2874592801e30a5dea.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/707.bundle.4fa076451559638193b2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/728.bundle.3c782086d193fd34f902.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/728.bundle.3c782086d193fd34f902.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/732.bundle.59cd655270bf9865bf9f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/744.bundle.bdfc16717659da9c670d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/790.bundle.1a6264ecb65adc62c9c9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/799.bundle.26d7c5b43f2b501a759e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/865.bundle.4cb9519ad4a3475e23bd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/905.bundle.71fd0db3ff7637876874.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/91.bundle.0f2a5f63527438978e24.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/917.bundle.92629e1fa78719b5f5cc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/935.bundle.748889199cba013d1891.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/939.bundle.032f0d13860d8256704a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/945.bundle.a9e1c2306dc8334361fe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/945.bundle.a9e1c2306dc8334361fe.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/949.bundle.916092e581d5bf15b9cc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/949.bundle.916092e581d5bf15b9cc.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/953.bundle.2216bca27cd88be5bfe7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/962.bundle.32ea89e7d94d791dd9de.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/973.bundle.9e05038a1c754f2af6da.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/976.bundle.7dfbda97d120b1cfc940.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/984.bundle.bde068a214083e4bd858.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.bundle.9d1e160b5f87eabf23b8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.bundle.9d1e160b5f87eabf23b8.js.LICENSE.txt" beforeDir="false" />
+    <list default="true" id="f7d27ad9-c602-495b-a117-a050220b0546" name="Changes" comment="Added erase more options for brush tool">
+      <change afterPath="$PROJECT_DIR$/905.bundle.85ecd72d7ab7aca5dc99.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/962.bundle.6cc4064cd36dbd449349.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.bundle.d42b79ff6e186bf20e99.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/192.bundle.b92e850a633cecd0959e.js" beforeDir="false" afterPath="$PROJECT_DIR$/192.bundle.5652b9ad410969a68478.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/531.bundle.cc8cfa0ba5ad6dfa7acc.js" beforeDir="false" afterPath="$PROJECT_DIR$/531.bundle.863403d850c3488bd997.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/531.bundle.cc8cfa0ba5ad6dfa7acc.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/531.bundle.863403d850c3488bd997.js.LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/905.bundle.436ed2c478acea0a9587.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/91.bundle.5630d8086d5eecd2f26e.js" beforeDir="false" afterPath="$PROJECT_DIR$/91.bundle.c7596e8d8a67120fc4ac.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/962.bundle.d41324915ca1e6c618c9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.bundle.298e3178bec3de04dc7b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.bundle.298e3178bec3de04dc7b.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app.bundle.d42b79ff6e186bf20e99.js.LICENSE.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.bundle.css" beforeDir="false" afterPath="$PROJECT_DIR$/app.bundle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dicom-microscopy-viewer.bundle.e6609e5675a81fcdf8dd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dicom-microscopy-viewer.bundle.e6609e5675a81fcdf8dd.js.LICENSE.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/sw.js" afterDir="false" />
     </list>
@@ -79,21 +41,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Nathan/Documents/WeDiagnostiX/WeDiagnostiX.github.io",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Nathan/Documents/WeDiagnostiX/WeDiagnostiX.github.io&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Nathan\Documents\WeDiagnostiX\WeDiagnostiX.github.io\manual_images" />
       <recent name="C:\Users\Nathan\Documents\WeDiagnostiX\WeDiagnostiX.github.io" />
+      <recent name="C:\Users\Nathan\Documents\WeDiagnostiX\WeDiagnostiX.github.io\manual_images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Nathan\Documents\WeDiagnostiX\WeDiagnostiX.github.io\wdx" />
@@ -112,7 +74,8 @@
       <updated>1697031525488</updated>
       <workItem from="1697031526628" duration="7745000" />
       <workItem from="1697110915384" duration="13369000" />
-      <workItem from="1697546769882" duration="170000" />
+      <workItem from="1697546769882" duration="254000" />
+      <workItem from="1698143218270" duration="202000" />
     </task>
     <task id="LOCAL-00001" summary="Began to set up password protection">
       <created>1697031649096</created>
@@ -205,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697128263521</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Added erase more options for brush tool">
+      <created>1697547001110</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1697547001110</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,6 +206,7 @@
     <MESSAGE value="Fixing bugs #9" />
     <MESSAGE value="Fixing bugs #10" />
     <MESSAGE value="Added README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added README.md" />
+    <MESSAGE value="Added erase more options for brush tool" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added erase more options for brush tool" />
   </component>
 </project>
