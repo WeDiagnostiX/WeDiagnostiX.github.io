@@ -31,7 +31,7 @@ les segments créé précedemment.
 ## Outils d'annotation
 
 Une fois que vous aurez cliqué dans la liste des segments la catégorie que vous souhaitez annoter sur le volume,
-vous pourrez dessiner a l'aide de plusieurs outils.
+vous pourrez dessiner a l'aide de plusieurs outils. \
 <img src="manual_images/select_tool.png" width="500"></img> \
 Cliquez sur cet icone a droite de votre barre d'outil pour selectionner le premier tool d'annotation.
 En cliquant sur la fleche a droite du pinceau, vous pourrez choisir d'autres outils : \
@@ -41,7 +41,21 @@ En cliquant sur la fleche a droite du pinceau, vous pourrez choisir d'autres out
 Meme si vous utilisez un outil d'annotation, vous pouvez quand meme zoomer / dezoomer sur le CBCT en utilisant
 le **clic droit**.\
 Vous pouvez aussi utiliser le **clic molette** pour deplacer la radio. \
-Utilisez  **clic gauche** sur la radio pour dessiner avec votre outil.
+Utilisez  **clic gauche** sur la radio pour dessiner avec votre outil. 
+
+Lorsque vous effacez des annotations, peu importe l'outil, vous avez une section "Erase Options"
+que vous pouvez expandre pour concentrer la suppression sur une categorie d'annotation :\
+<img src="manual_images/erase_focus.png" width="300"></img> \
+En selectionnant une categorie en particulier, les autres ne subiront pas l'effacage meme si vous passez
+par dessus.\
+
+Lorsque vous faites un threshold avec le Brush ou le Rectangle Threshold, vous pouvez utiliser le slider
+pour selectionner les intervalles de valeur d'HU mais aussi l'outil pipette en dessous du slider :\
+<img src="manual_images/pipette.png" width="350"></img> \
+En cliquant sur l'un des deux, l'outil "Sonde" s'activera. Maintenez alors le clic gauche enfonce sur la radio pour 
+voir la valeur et set le threshold en fonction de la valeur sur laquelle vous etes.
+Cliquez ensuite sur "Back to annotation" pour continuer la peinture.
+
 
 ### Paint Brush
 

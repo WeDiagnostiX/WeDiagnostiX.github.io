@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7d27ad9-c602-495b-a117-a050220b0546" name="Changes" comment="Added erase more options for brush tool">
-      <change afterPath="$PROJECT_DIR$/905.bundle.85ecd72d7ab7aca5dc99.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/962.bundle.6cc4064cd36dbd449349.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.bundle.d42b79ff6e186bf20e99.js" afterDir="false" />
+    <list default="true" id="f7d27ad9-c602-495b-a117-a050220b0546" name="Changes" comment="Added pipette tool and more erase options for other tools">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/192.bundle.b92e850a633cecd0959e.js" beforeDir="false" afterPath="$PROJECT_DIR$/192.bundle.5652b9ad410969a68478.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/531.bundle.cc8cfa0ba5ad6dfa7acc.js" beforeDir="false" afterPath="$PROJECT_DIR$/531.bundle.863403d850c3488bd997.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/531.bundle.cc8cfa0ba5ad6dfa7acc.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/531.bundle.863403d850c3488bd997.js.LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/905.bundle.436ed2c478acea0a9587.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/91.bundle.5630d8086d5eecd2f26e.js" beforeDir="false" afterPath="$PROJECT_DIR$/91.bundle.c7596e8d8a67120fc4ac.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/962.bundle.d41324915ca1e6c618c9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.bundle.298e3178bec3de04dc7b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.bundle.298e3178bec3de04dc7b.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app.bundle.d42b79ff6e186bf20e99.js.LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.bundle.css" beforeDir="false" afterPath="$PROJECT_DIR$/app.bundle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/sw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +62,7 @@
       <workItem from="1697031526628" duration="7745000" />
       <workItem from="1697110915384" duration="13369000" />
       <workItem from="1697546769882" duration="254000" />
-      <workItem from="1698143218270" duration="202000" />
+      <workItem from="1698143218270" duration="1432000" />
     </task>
     <task id="LOCAL-00001" summary="Began to set up password protection">
       <created>1697031649096</created>
@@ -175,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697547001110</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Added pipette tool and more erase options for other tools">
+      <created>1698143449715</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1698143449715</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,6 +201,7 @@
     <MESSAGE value="Fixing bugs #10" />
     <MESSAGE value="Added README.md" />
     <MESSAGE value="Added erase more options for brush tool" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added erase more options for brush tool" />
+    <MESSAGE value="Added pipette tool and more erase options for other tools" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added pipette tool and more erase options for other tools" />
   </component>
 </project>
