@@ -1,9 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7d27ad9-c602-495b-a117-a050220b0546" name="Changes" comment="Added pipette tool and more erase options for other tools">
+    <list default="true" id="f7d27ad9-c602-495b-a117-a050220b0546" name="Changes" comment="Updated READMe.md">
+      <change afterPath="$PROJECT_DIR$/497.bundle.c9c02f55da1e3f42c8ea.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/707.bundle.dd2570970f4ec9d54d32.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/792.bundle.8827aac1eb24ff1245a3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/905.bundle.c4951842b6f44dc19bcf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.bundle.91c97549bc6803662dfb.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/185.bundle.8a543baca0386803fbf9.js" beforeDir="false" afterPath="$PROJECT_DIR$/185.bundle.ff825fc4ae482864fdaa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/185.bundle.8a543baca0386803fbf9.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/185.bundle.ff825fc4ae482864fdaa.js.LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/192.bundle.5652b9ad410969a68478.js" beforeDir="false" afterPath="$PROJECT_DIR$/192.bundle.e3cfdb54295c291bbc98.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/199.bundle.ce58a0f7dd700cb8d3f7.js" beforeDir="false" afterPath="$PROJECT_DIR$/199.bundle.88949a8385de9b0d4b6c.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/205.bundle.4fd0ba0a52ea7fa81b37.js" beforeDir="false" afterPath="$PROJECT_DIR$/205.bundle.d1e77c16a8e5722fcb97.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/208.bundle.2fe3a49e181373b8cee8.js" beforeDir="false" afterPath="$PROJECT_DIR$/208.bundle.11a404c5871d23c25a2b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/295.bundle.f64a8020b808432ead2f.js" beforeDir="false" afterPath="$PROJECT_DIR$/295.bundle.d16373df8e9127423015.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/351.bundle.01565cf717fa0dcbf0e0.js" beforeDir="false" afterPath="$PROJECT_DIR$/351.bundle.a1fac84dda7110ed6aa8.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/381.bundle.50d05e931e07e0f76041.js" beforeDir="false" afterPath="$PROJECT_DIR$/381.bundle.2ee9cf44fbbf8faff615.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.bundle.814bf40b95a0bad60cf9.js" beforeDir="false" afterPath="$PROJECT_DIR$/404.bundle.0ea9ff5eebea5e538abb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/50.bundle.cdeb4e76aa5ff001eb23.js" beforeDir="false" afterPath="$PROJECT_DIR$/50.bundle.dba8e8efb0f8dd8e381d.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/531.bundle.863403d850c3488bd997.js" beforeDir="false" afterPath="$PROJECT_DIR$/531.bundle.9f6519a65a95a23cdfe2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/531.bundle.863403d850c3488bd997.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/531.bundle.9f6519a65a95a23cdfe2.js.LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/55.bundle.e87a705fef4339cb74a5.js" beforeDir="false" afterPath="$PROJECT_DIR$/55.bundle.17927c483a24ea77b507.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/569.bundle.b707eab68460fa5d6e73.js" beforeDir="false" afterPath="$PROJECT_DIR$/569.bundle.340e80089b91ffdae9cb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/581.bundle.3537eeae1aee24d4da81.js" beforeDir="false" afterPath="$PROJECT_DIR$/581.bundle.45ddf4001e252c0adc6e.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/606.bundle.7bc3e8a0e1483cdd9fbe.js" beforeDir="false" afterPath="$PROJECT_DIR$/606.bundle.463e622467ac42ffefba.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/606.bundle.7bc3e8a0e1483cdd9fbe.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/606.bundle.463e622467ac42ffefba.js.LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/642.bundle.e349308233572f71a219.js" beforeDir="false" afterPath="$PROJECT_DIR$/642.bundle.f2602ad053b3b91630ab.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/664.bundle.1c137f1294dac033318c.js" beforeDir="false" afterPath="$PROJECT_DIR$/664.bundle.119cc1b9c051aef9dfc0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/707.bundle.3817bdf53960368d74f6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/728.bundle.6e8e71e3a2e1b68d19a3.js" beforeDir="false" afterPath="$PROJECT_DIR$/728.bundle.fb8eabd1c132746c3a31.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/728.bundle.6e8e71e3a2e1b68d19a3.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/728.bundle.fb8eabd1c132746c3a31.js.LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/732.bundle.2a4edc482cca4f85bdd6.js" beforeDir="false" afterPath="$PROJECT_DIR$/732.bundle.c232b10ef2516b9d914c.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/744.bundle.3176f9b81a7e44ecce68.js" beforeDir="false" afterPath="$PROJECT_DIR$/744.bundle.7c9ac216b826cc5a2f47.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/790.bundle.04f9a037a852022f0b7a.js" beforeDir="false" afterPath="$PROJECT_DIR$/790.bundle.4fea30ca20820af5bdd2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/799.bundle.12e8825d4734918fbf1f.js" beforeDir="false" afterPath="$PROJECT_DIR$/799.bundle.7ec56fe73ca7a846401b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/865.bundle.c3f15cbe24b6883bb982.js" beforeDir="false" afterPath="$PROJECT_DIR$/865.bundle.962bcc056ab9c9c99782.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/905.bundle.85ecd72d7ab7aca5dc99.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/91.bundle.c7596e8d8a67120fc4ac.js" beforeDir="false" afterPath="$PROJECT_DIR$/91.bundle.d9718cfcb7d568cfdd93.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/917.bundle.1284313166a91047c2cf.js" beforeDir="false" afterPath="$PROJECT_DIR$/917.bundle.98cd066c1304c70a0e92.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/935.bundle.d58291935b5ad7f238c0.js" beforeDir="false" afterPath="$PROJECT_DIR$/935.bundle.750752b562cb37d152a2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/939.bundle.d5228fef363268758269.js" beforeDir="false" afterPath="$PROJECT_DIR$/939.bundle.4d800fc04c4311bd4812.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/945.bundle.d762950df4d61a1cdae6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/945.bundle.d762950df4d61a1cdae6.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/792.bundle.8827aac1eb24ff1245a3.js.LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/949.bundle.82cd8ed8cb5747975014.js" beforeDir="false" afterPath="$PROJECT_DIR$/949.bundle.771992d86e443580d5b4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/949.bundle.82cd8ed8cb5747975014.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/949.bundle.771992d86e443580d5b4.js.LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/953.bundle.9c3d06937f24b710266f.js" beforeDir="false" afterPath="$PROJECT_DIR$/953.bundle.d082d0561abe5227ae34.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/962.bundle.6cc4064cd36dbd449349.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/962.css" beforeDir="false" afterPath="$PROJECT_DIR$/497.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/973.bundle.22402390213c02c18f97.js" beforeDir="false" afterPath="$PROJECT_DIR$/973.bundle.f872c38ec81a1876fa40.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/976.bundle.d3fb9fcbd43398e084e4.js" beforeDir="false" afterPath="$PROJECT_DIR$/976.bundle.846ecaf6b9b45da647b5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/984.bundle.53deb69c77d256252d58.js" beforeDir="false" afterPath="$PROJECT_DIR$/984.bundle.3056e0cc04ac3c108481.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.bundle.d42b79ff6e186bf20e99.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.bundle.d42b79ff6e186bf20e99.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app.bundle.91c97549bc6803662dfb.js.LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom-microscopy-viewer.bundle.addb678fd54fa51b1a0f.js" beforeDir="false" afterPath="$PROJECT_DIR$/dicom-microscopy-viewer.bundle.5bb8d2eeaa3eb89caece.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicom-microscopy-viewer.bundle.addb678fd54fa51b1a0f.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dicom-microscopy-viewer.bundle.5bb8d2eeaa3eb89caece.js.LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/sw.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +115,8 @@
       <workItem from="1697031526628" duration="7745000" />
       <workItem from="1697110915384" duration="13369000" />
       <workItem from="1697546769882" duration="254000" />
-      <workItem from="1698143218270" duration="1432000" />
+      <workItem from="1698143218270" duration="2159000" />
+      <workItem from="1698767885915" duration="75000" />
     </task>
     <task id="LOCAL-00001" summary="Began to set up password protection">
       <created>1697031649096</created>
@@ -169,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698143449715</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Updated READMe.md">
+      <created>1698144887198</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1698144887198</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +263,7 @@
     <MESSAGE value="Added README.md" />
     <MESSAGE value="Added erase more options for brush tool" />
     <MESSAGE value="Added pipette tool and more erase options for other tools" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added pipette tool and more erase options for other tools" />
+    <MESSAGE value="Updated READMe.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated READMe.md" />
   </component>
 </project>
