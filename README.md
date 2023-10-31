@@ -56,6 +56,10 @@ En cliquant sur l'un des deux, l'outil "Sonde" s'activera. Maintenez alors le cl
 voir la valeur et set le threshold en fonction de la valeur sur laquelle vous etes.
 Cliquez ensuite sur "Back to annotation" pour continuer la peinture.
 
+Si vous voulez annuler vos dernieres actions, vous pouvez cliquer sur le bouton "Undo"
+dans la section "Undo / Redo Segmentation" du panneau de segmentation. De la meme
+maniere, cliquez sur "Redo" et la precedente action annulee reviendra. \
+<img src="manual_images/undo.png" width="350"></img> 
 
 ### Paint Brush
 
