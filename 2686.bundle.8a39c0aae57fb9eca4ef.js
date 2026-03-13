@@ -1,2 +1,0 @@
-"use strict";(globalThis.webpackChunk=globalThis.webpackChunk||[]).push([[2686],{62686:(a,h,i)=>{i.r(h),i.d(h,{default:()=>l});var l=i(86013).domAnimation}}]);
-//# sourceMappingURL=2686.bundle.8a39c0aae57fb9eca4ef.js.map
