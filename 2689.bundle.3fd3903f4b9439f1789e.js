@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[2689],{52689:(s,c,e)=>{s.exports=e.p+"c8f20c5cb4a403f6f71b.stl"}}]);
