@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[2686],{62686:(e,a,s)=>{s.r(a),s.d(a,{default:()=>u});var u=s(73593).domAnimation}}]);
-//# sourceMappingURL=2686.bundle.c3ceaa61de37374e2f13.js.map
